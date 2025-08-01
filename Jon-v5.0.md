@@ -1,24 +1,24 @@
 {
-  "Title": "❗️ اطلاعیه مهم ❗️",
-  "Description": "طبق خبرها یزودی اختلال شدیدی روی اینترنت اعمال میشه ، برای جلوگیری از قطع اتصال شما فورا عضو کانال تلگرامی تیم ما شوید 🙏❤️",
-  "Link": "tg://join?invite=VYNheWxRgDo0MTg0",
-  "ColorWave": "#00ffff",
-  "Color": "#ffa500",
-  "ColorWaveTwo": "#007cf7",
-  "ColorBackGround": "#ffffff",
-  "TitleGravity": "center",
-  "MessageGravity": "center",
-  "ColorMessage": "#000000",
-  "ColorTitle": "#000000",
-  "ColorBtn": "#ffffff",
-  "ColorBtnBg": "#00a043",
-  "ColorBtnCancell": "#ffffff",
-  "ColorBtnCancellBg": "#e90000",
-  "Cancellable": "false",
-  "MessageID": "3602786700662416",
-  "ShowTime": "3",
-  "Button": " عضویت فوردی ",
-  "ButtonCancell": "",
-  "Closure": "true",
-  "Show": "on"
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "true",
+"Show": "on"
 }
